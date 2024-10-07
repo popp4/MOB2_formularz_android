@@ -7,7 +7,9 @@ import android.widget.EditText;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
+// deklaracja nowej klasy
 public class MainActivity extends AppCompatActivity {
+    //prywatne pola do wprowadzania tekstu
     private EditText editTextName;
     private EditText editTextEmail;
     private EditText editTextPhone;
